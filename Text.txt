@@ -1,0 +1,7 @@
+Essentials
+
+
+Forge 1.8.9 manifest
+https://downloads.essential.gg/v1/mods/essential/loader-stage2/updates/stable/forge_1-8-9
+
+https://cdn.essential.gg/mods/60d5dc9d8cea012849003e5b/613ccd9b9afaeb6d0d98bd19/forge_1-8-9.jar
